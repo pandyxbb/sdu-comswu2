@@ -3,6 +3,7 @@
  * and open the template in the editor.
  */
 //// fah lyn bb
+//test
 package hello;
 
 import javax.microedition.midlet.*;
