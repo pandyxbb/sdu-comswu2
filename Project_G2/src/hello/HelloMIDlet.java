@@ -2,6 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
+//// fah lyn bb
 package hello;
 
 import javax.microedition.midlet.*;
